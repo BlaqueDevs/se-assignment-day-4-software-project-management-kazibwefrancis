@@ -28,15 +28,15 @@ Developing a detailed project schedule ensures that all tasks are accounted for,
 
 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 
-1. Inefficiency in Workflow: Many users struggle with fragmented processes that lead to wasted time and resources. Our software streamlines workflows, allowing users to accomplish tasks more efficiently and effectively.
+ Inefficiency in Workflow: Many users struggle with fragmented processes that lead to wasted time and resources. Our software streamlines workflows, allowing users to accomplish tasks more efficiently and effectively.
 
-2. Lack of Real-Time Data: In many industries, decision-making relies on timely information. Our software provides real-time data analytics, enabling users to make informed decisions quickly and accurately.
+ Lack of Real-Time Data: In many industries, decision-making relies on timely information. Our software provides real-time data analytics, enabling users to make informed decisions quickly and accurately.
 
-3. Poor User Experience: Users often face difficulties with complex interfaces and navigation in existing solutions. We focus on user-centered design, ensuring our software is intuitive and easy to use, which enhances overall user satisfaction.
+ Poor User Experience: Users often face difficulties with complex interfaces and navigation in existing solutions. We focus on user-centered design, ensuring our software is intuitive and easy to use, which enhances overall user satisfaction.
 
-4. Limited Collaboration Tools: Collaboration can be hindered by inadequate communication and project management tools. Our software incorporates features that facilitate seamless collaboration, improving teamwork and productivity.
+ Limited Collaboration Tools: Collaboration can be hindered by inadequate communication and project management tools. Our software incorporates features that facilitate seamless collaboration, improving teamwork and productivity.
 
-5. Inadequate Support and Resources: Users often find it challenging to access necessary support and resources when they encounter issues. We prioritize providing comprehensive support, including tutorials, FAQs, and responsive customer service.
+ Inadequate Support and Resources: Users often find it challenging to access necessary support and resources when they encounter issues. We prioritize providing comprehensive support, including tutorials, FAQs, and responsive customer service.
 
 
 9. How can clearly defining the problem help in developing a more effective software solution?
